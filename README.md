@@ -1,13 +1,30 @@
-## ola! 👋 me chamo Euarda Tavares 
+## Olá! 👋 Me chamo Eduarda Tavares
 
-<!--
-**TavaresEduarda/TavaresEduarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil do GitHub! 🚀
 
-Here are some ideas to get you started:
+Sou estudante de **Técnico em Desenvolvimento de Sistemas**, apaixonada por tecnologia e sempre em busca de aprender e evoluir na área.
 
-- 🔭 no momento nao estou atuando profissonalmentye 
-- 🌱 atualmente, estou cursando técnico em Desinvolvimento de Sistemas
-- 🤔 Busco apoio para aprofundas meus conhecimentos
-- 💬 sinta-se à vontade para entrar em contato comigo para trocar ideias e tirar duvidas
-- 📫 formas de contato: 
--->
+### 👩‍💻 Sobre mim
+
+* 🔭 No momento, não estou atuando profissionalmente, mas sigo em constante aprendizado
+* 🌱 Atualmente curso **Técnico em Desenvolvimento de Sistemas**
+* 🤔 Busco apoio, troca de experiências e oportunidades para aprofundar meus conhecimentos
+* 💬 Fique à vontade para entrar em contato comigo para conversar, trocar ideias ou tirar dúvidas
+
+### 🛠️ Tecnologias em aprendizado
+
+* HTML
+* CSS
+* JavaScript
+* Lógica de Programação
+
+### 📫 Contato
+
+* GitHub: você já está aqui 😊
+* LinkedIn: *https://www.linkedin.com/in/eduarda-costa-b06a09339/*
+* E-mail: *eduardaferreiratc@gmail.com*
+
+---
+
+✨ Obrigada por visitar meu perfil! ✨
+
