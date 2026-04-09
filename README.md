@@ -1,30 +1,29 @@
-## Olá! 👋 Me chamo Eduarda Tavares
+## Hello! 👋 My name is Eduarda Tavares
 
-Bem-vindo(a) ao meu perfil do GitHub! 🚀
+Welcome to my GitHub profile! 🚀
 
-Sou estudante de **Técnico em Desenvolvimento de Sistemas**, apaixonada por tecnologia e sempre em busca de aprender e evoluir na área.
+I’m a **Systems Development Technician student**, passionate about technology and always looking to learn and grow in this field.
 
-### 👩‍💻 Sobre mim
+### 👩‍💻 About me
 
-* 🔭 No momento, não estou atuando profissionalmente, mas sigo em constante aprendizado
-* 🌱 Atualmente curso **Técnico em Desenvolvimento de Sistemas**
-* 🤔 Busco apoio, troca de experiências e oportunidades para aprofundar meus conhecimentos
-* 💬 Fique à vontade para entrar em contato comigo para conversar, trocar ideias ou tirar dúvidas
+* 🔭 At the moment, I’m not working professionally yet, but I’m constantly learning
+* 🌱 Currently studying **Systems Development Technician**
+* 🤔 I’m looking for support, knowledge exchange, and opportunities to deepen my skills
+* 💬 Feel free to reach out to chat, share ideas, or ask questions
 
-### 🛠️ Tecnologias em aprendizado
+### 🛠️ Technologies I’m learning
 
 * HTML
 * CSS
 * JavaScript
-* Lógica de Programação
+* Programming Logic
 
-### 📫 Contato
+### 📫 Contact
 
-* GitHub: você já está aqui 😊
-* LinkedIn: *https://www.linkedin.com/in/eduarda-costa-b06a09339/*
-* E-mail: *eduardaferreiratc@gmail.com*
+* GitHub: you’re already here 😊
+* LinkedIn: *[https://www.linkedin.com/in/eduarda-costa-b06a09339/](https://www.linkedin.com/in/eduarda-costa-b06a09339/)*
+* Email: *[eduardaferreiratc@gmail.com](mailto:eduardaferreiratc@gmail.com)*
 
 ---
 
-✨ Obrigada por visitar meu perfil! ✨
-
+✨ Thank you for visiting my profile! ✨
